@@ -3,6 +3,9 @@
 # Unreal Engine 5.3 game inspired from Teardown
 
 ## Da aggiungere:
+- [x] Veicoli guidabili: fare in modo che tutti i veicoli si possano controllare
+- [x] Ciclo giorno/notte: aggiungere un ciclo giorno/notte con le luci dei lampioni
+- [x] Modello player con animazioni: animazioni del player per idle/corsa/salto
 - [ ] Armi / Esplosivi: gli asset ci sono gia basta farli funzionare
 - [ ] Limiti telecamera durante la giuda: in modo da non girare troppo la visuale
 - [ ] Multiplayer: fatto bene come lo vuole il Saccone
