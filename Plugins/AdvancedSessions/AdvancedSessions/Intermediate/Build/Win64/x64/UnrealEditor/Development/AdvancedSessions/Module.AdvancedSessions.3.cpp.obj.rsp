@@ -1,11 +1,11 @@
-"C:\Users\codic\OneDrive\Desktop\prova\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp"
-/FI"C:\Users\codic\OneDrive\Desktop\prova\Game\Intermediate\Build\Win64\x64\GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\codic\OneDrive\Desktop\prova\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Yu"C:\Users\codic\OneDrive\Desktop\prova\Game\Intermediate\Build\Win64\x64\GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\codic\OneDrive\Desktop\prova\Game\Intermediate\Build\Win64\x64\GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\codic\OneDrive\Desktop\prova\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
-/sourceDependencies "C:\Users\codic\OneDrive\Desktop\prova\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.dep.json"
-@"C:\Users\codic\OneDrive\Desktop\prova\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\AdvancedSessions.Shared.rsp"
+"C:\ProgettiUE5\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp"
+/FI"C:\ProgettiUE5\Game\Intermediate\Build\Win64\x64\GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"C:\ProgettiUE5\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Yu"C:\ProgettiUE5\Game\Intermediate\Build\Win64\x64\GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"C:\ProgettiUE5\Game\Intermediate\Build\Win64\x64\GameEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"C:\ProgettiUE5\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
+/sourceDependencies "C:\ProgettiUE5\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.dep.json"
+@"C:\ProgettiUE5\Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\AdvancedSessions.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
