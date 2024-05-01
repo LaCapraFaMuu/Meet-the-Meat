@@ -7,8 +7,13 @@
 - [x] Ciclo giorno/notte: aggiungere un ciclo giorno/notte con le luci dei lampioni
 - [x] Modello player con animazioni: animazioni del player per idle/corsa/salto
 - [ ] Armi / Esplosivi: gli asset ci sono gia basta farli funzionare
-- [ ] Limiti telecamera durante la giuda: in modo da non girare troppo la visuale
-- [x] Multiplayer: fatto bene come lo vuole il Saccone (DA FINIRE)
+- [ ] Ragdoll NPC: mettere il ragdoll e le fisiche a tutti gli npc con gore
+
+## Da finire:
+- [ ] AI NPC: se possibile farmi muovere un po un giro in modo da far sembrare il gioco piu vivo
+- [ ] Multiplayer: fatto bene come lo vuole il Saccone
 - [ ] Suoni: per camminata/macchine/armi/npc ecc.
-- [ ] Ragdoll NPC: mettere il ragdoll e le fisiche a tutti gli npc possibilmente aggiungere gore
-- [x] AI NPC: se possibile farmi muovere un po un giro in modo da far sembrare il gioco piu vivo (DA FINIRE)
+
+## Da fixare:
+- [ ] Limiti telecamera durante la giuda: in modo da non girare troppo la visuale
+- [ ] Rimuovere hitbox player dopo che sale su un veicolo
