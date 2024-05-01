@@ -8,7 +8,7 @@
 - [x] Modello player con animazioni: animazioni del player per idle/corsa/salto
 - [ ] Armi / Esplosivi: gli asset ci sono gia basta farli funzionare
 - [ ] Limiti telecamera durante la giuda: in modo da non girare troppo la visuale
-- [ ] Multiplayer: fatto bene come lo vuole il Saccone
+- [x] Multiplayer: fatto bene come lo vuole il Saccone (DA FINIRE)
 - [ ] Suoni: per camminata/macchine/armi/npc ecc.
 - [ ] Ragdoll NPC: mettere il ragdoll e le fisiche a tutti gli npc possibilmente aggiungere gore
-- [ ] AI NPC: se possibile farmi muovere un po un giro in modo da far sembrare il gioco piu vivo
+- [x] AI NPC: se possibile farmi muovere un po un giro in modo da far sembrare il gioco piu vivo (DA FINIRE)
