@@ -14,6 +14,7 @@
 - [x] Limiti telecamera durante la giuda: in modo da non girare troppo la visuale
 - [x] Rimuovere hitbox player dopo che sale su un veicolo
 - [ ] Togliere movimento a NPC morti
+- [ ] Quando si ribaltano i veicoli vanno sotto terra
 
 ### Finito:
 - [x] Veicoli guidabili: fare in modo che tutti i veicoli si possano controllare
