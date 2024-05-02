@@ -15,5 +15,5 @@
 - [ ] Suoni: per camminata/macchine/armi/npc ecc.
 
 ## Da fixare:
-- [ ] Limiti telecamera durante la giuda: in modo da non girare troppo la visuale
-- [ ] Rimuovere hitbox player dopo che sale su un veicolo
+- [x] Limiti telecamera durante la giuda: in modo da non girare troppo la visuale
+- [x] Rimuovere hitbox player dopo che sale su un veicolo
