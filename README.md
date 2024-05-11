@@ -17,6 +17,7 @@
 - [x] Quando si ribaltano i veicoli vanno sotto terra
 - [x] Quando il player esce da un veicolo ribaltato anche la reference di dove si teletrasporta viene ribaltata e quindi la mesh del player vienre ribaltata
 - [ ] La health bar non legge la vita del player dopo il respawn
+- [ ] Il player muove veicoli come carta dopo che scende da un veicolo
 
 ### Finito:
 - [x] Veicoli guidabili: fare in modo che tutti i veicoli si possano controllare
