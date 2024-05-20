@@ -7,20 +7,20 @@
 
 ## Da finire:
 - [ ] Multiplayer: fatto bene come lo vuole il Saccone
-- [ ] Suoni: per camminata/macchine/armi/npc ecc.
 
 ## Da fixare:
 - [x] Limiti telecamera durante la giuda: in modo da non girare troppo la visuale
 - [x] Rimuovere hitbox player dopo che sale su un veicolo
-- [ ] Togliere movimento a NPC morti (Semi fixato facendoli despawnare)
 - [x] Quando si ribaltano i veicoli vanno sotto terra
 - [x] Quando il player esce da un veicolo ribaltato anche la reference di dove si teletrasporta viene ribaltata e quindi la mesh del player vienre ribaltata
-- [ ] La health bar non legge la vita del player dopo il respawn
 - [x] Il player muove veicoli come carta dopo che scende da un veicolo
+- [ ] La health bar non legge la vita del player dopo il respawn
+- [ ] Togliere movimento a NPC morti (Semi fixato facendoli despawnare)
 
 ### Finito:
 - [x] Veicoli guidabili: fare in modo che tutti i veicoli si possano controllare
 - [x] Ciclo giorno/notte: aggiungere un ciclo giorno/notte con le luci dei lampioni
 - [x] Modello player con animazioni: animazioni del player per idle/corsa/salto
 - [x] AI NPC: se possibile farmi muovere un po un giro in modo da far sembrare il gioco piu vivo
-- [ ] Armi / Esplosivi: gli asset ci sono gia basta farli funzionare
+- [x] Armi / Esplosivi: gli asset ci sono gia basta farli funzionare
+- [x] Suoni: per camminata/macchine/armi/npc ecc.
