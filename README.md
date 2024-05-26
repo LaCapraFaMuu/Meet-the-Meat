@@ -5,7 +5,7 @@
 You were raised by a normal family eating normal stuff and it didn't bother you much, but one day you came across a strictly vegan town. The residents, with their self-righteous attitudes and relentless preaching about the virtues of a plant-based diet, grated on your nerves. It started small, with you defying their rules by sneaking in a steak here and there, but the constant judgment pushed you over the edge. Your frustration turned to rebellion, and you got so mad that you started to commit tax evasion and various other crimes. You felt a twisted sense of satisfaction in breaking their holier-than-thou rules, finding solace in defiance and chaos. NOW THEY WILL MEET THE MEAT!
 
 ## Da aggiungere:
-- [ ] Ragdoll NPC: mettere il ragdoll e le fisiche a tutti gli npc con gore
+- [x] Ragdoll NPC: mettere il ragdoll e le fisiche a tutti gli npc con gore
 
 ## Da finire:
 - [ ] Multiplayer: fatto bene come lo vuole il Saccone
